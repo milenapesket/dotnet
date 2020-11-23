@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/milenapesket/.dotnet/store/|arch|/|tfm|",
+      "/Users/milenapesket/.nuget/packages"
+    ]
+  }
+}

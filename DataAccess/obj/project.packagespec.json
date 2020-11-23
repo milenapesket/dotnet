@@ -1,0 +1,67 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/milenapesket/RiderProjects/endpoint_with_jwt/DataAccess/DataAccess.csproj",
+    "projectName": "DataAccess",
+    "projectPath": "/Users/milenapesket/RiderProjects/endpoint_with_jwt/DataAccess/DataAccess.csproj",
+    "outputPath": "/Users/milenapesket/RiderProjects/endpoint_with_jwt/DataAccess/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/Users/milenapesket/RiderProjects/endpoint_with_jwt/Core/Core.csproj": {
+            "projectPath": "/Users/milenapesket/RiderProjects/endpoint_with_jwt/Core/Core.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "[5.0.0, )"
+        },
+        "Microsoft.OpenApi": {
+          "target": "Package",
+          "version": "[1.2.3, )"
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[5.6.3, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+    }
+  }
+}

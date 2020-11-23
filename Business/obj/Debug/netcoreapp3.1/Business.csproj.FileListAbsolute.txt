@@ -1,0 +1,16 @@
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/bin/Debug/netcoreapp3.1/Business.deps.json
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/bin/Debug/netcoreapp3.1/Business.dll
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/bin/Debug/netcoreapp3.1/Business.pdb
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/bin/Debug/netcoreapp3.1/Core.dll
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/bin/Debug/netcoreapp3.1/DataAccess.dll
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/obj/Debug/netcoreapp3.1/Business.csprojAssemblyReference.cache
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/obj/Debug/netcoreapp3.1/Business.AssemblyInfoInputs.cache
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/obj/Debug/netcoreapp3.1/Business.AssemblyInfo.cs
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/obj/Debug/netcoreapp3.1/Business.csproj.CoreCompileInputs.cache
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/obj/Debug/netcoreapp3.1/Business.csproj.CopyComplete
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/obj/Debug/netcoreapp3.1/Business.dll
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Business/obj/Debug/netcoreapp3.1/Business.pdb

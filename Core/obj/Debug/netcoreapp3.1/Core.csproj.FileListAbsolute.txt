@@ -1,0 +1,9 @@
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Core/bin/Debug/netcoreapp3.1/Core.deps.json
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Core/bin/Debug/netcoreapp3.1/Core.dll
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Core/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Core/obj/Debug/netcoreapp3.1/Core.csprojAssemblyReference.cache
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfoInputs.cache
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfo.cs
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Core/obj/Debug/netcoreapp3.1/Core.dll
+/Users/milenapesket/RiderProjects/endpoint_with_jwt/Core/obj/Debug/netcoreapp3.1/Core.pdb
